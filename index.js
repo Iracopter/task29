@@ -5,7 +5,7 @@ function calculateAverage(arr) {
       sum += arr[i];
     }
     
-     return  (sum / arr.length);                                     /*let avg = sum / arr.length;*/
+     return  (sum / arr.length);                                     
   }
   
   let numbers = [1, 2, 3, 4, 5];
